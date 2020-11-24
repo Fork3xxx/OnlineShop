@@ -3,7 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/OnlineShop.iml" filepath="$PROJECT_DIR$/.idea/OnlineShop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zshop_parent/zshop_backend_web/zshop_backend_web.iml" filepath="$PROJECT_DIR$/zshop_parent/zshop_backend_web/zshop_backend_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zshop_parent/zshop_common/zshop_common.iml" filepath="$PROJECT_DIR$/zshop_parent/zshop_common/zshop_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zshop_parent/zshop_dao/zshop_dao.iml" filepath="$PROJECT_DIR$/zshop_parent/zshop_dao/zshop_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zshop_parent/zshop_front_web/zshop_front_web.iml" filepath="$PROJECT_DIR$/zshop_parent/zshop_front_web/zshop_front_web.iml" />
       <module fileurl="file://$PROJECT_DIR$/zshop_parent/zshop_parent.iml" filepath="$PROJECT_DIR$/zshop_parent/zshop_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zshop_parent/zshop_pojo/zshop_pojo.iml" filepath="$PROJECT_DIR$/zshop_parent/zshop_pojo/zshop_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zshop_parent/zshop_service/zshop_service.iml" filepath="$PROJECT_DIR$/zshop_parent/zshop_service/zshop_service.iml" />
     </modules>
   </component>
 </project>

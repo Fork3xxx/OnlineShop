@@ -6,11 +6,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="zshop_parent" />
+        <module name="zshop_backend_web" />
+        <module name="zshop_common" />
+        <module name="zshop_dao" />
+        <module name="zshop_front_web" />
+        <module name="zshop_pojo" />
+        <module name="zshop_service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="zshop_backend_web" target="1.8" />
+      <module name="zshop_common" target="1.8" />
+      <module name="zshop_dao" target="1.8" />
+      <module name="zshop_front_web" target="1.8" />
       <module name="zshop_parent" target="1.8" />
+      <module name="zshop_pojo" target="1.8" />
+      <module name="zshop_service" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
